@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">787155138466-rqpphmjsasu0pl2b27hafpc4i8i08nj2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://apple-mart-29a16.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">787155138466</string>
+    <string name="google_api_key" translatable="false">AIzaSyAITV67KZJLTURuhhCxK14JldPiWCoFIXo</string>
+    <string name="google_app_id" translatable="false">1:787155138466:android:263b0ed604dcef02e9e4fb</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAITV67KZJLTURuhhCxK14JldPiWCoFIXo</string>
+    <string name="google_storage_bucket" translatable="false">apple-mart-29a16.appspot.com</string>
+    <string name="project_id" translatable="false">apple-mart-29a16</string>
+</resources>
